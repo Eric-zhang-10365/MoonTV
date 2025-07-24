@@ -86,7 +86,7 @@
       "name": "小猫咪资源"
     },
     "h18": {
-      "api": "https://www.pgxdy.com/api/json.php/provide/vod",
+      "api": "https://www.pgxdy.com/api/json.php?pg",
       "name": "H18"
     }
   }
